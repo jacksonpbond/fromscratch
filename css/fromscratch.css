@@ -1,0 +1,59 @@
+#footer {
+    padding: 25px;
+    text-align: center;
+    background-color: bisque;
+}
+a {
+    padding: 10px;
+}
+.button:visited {
+    color: blueviolet;
+}
+.button:hover {
+    color: lightskyblue;
+}
+.button {
+    padding: 5px;
+    color: blue;
+}
+#top { 
+   height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 5px;
+    background-color: bisque;
+    background-size: 745px;
+    padding-bottom: 25px;
+}
+h1 {
+    text-align: center;
+    padding-top: 25px;
+    color: lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    text-align: center;
+    color: lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol {
+    padding: 25px;
+}
+ul {
+    padding-left: 10%;
+    list-style-type: disc;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    padding: 10px;
+}
+hr {
+    align-items: center;
+}
+.tableauPlaceholder {
+    padding-top: 35px;
+}
+iframe {
+    padding: 25px;
+}
